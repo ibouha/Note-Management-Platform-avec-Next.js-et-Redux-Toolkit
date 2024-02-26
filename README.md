@@ -1,0 +1,1 @@
+# Note-Management-Platform-avec-Next.js-et-Redux-Toolkit
